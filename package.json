@@ -1,0 +1,12 @@
+{
+  "name": "angular-gulp-livereload",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Russell Matney",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-connect": "~2.0.6",
+    "gulp": "~3.8.7"
+  }
+}
