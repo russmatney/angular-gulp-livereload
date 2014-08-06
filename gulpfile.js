@@ -3,7 +3,7 @@ var gulp = require('gulp'),
 
 var paths = {
   views: ['./*.html'],
-  scripts: ['./*.js']
+  scripts: ['./*/**.js']
 };
 
 gulp.task('connect', function() {
