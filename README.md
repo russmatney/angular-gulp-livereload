@@ -1,7 +1,6 @@
-angular-gulp-livereload
-=======================
+#angular-playground
 
-stupid-simple, clone-able live-reload server for front-end angular demoing
+stupid-simple, clone-able, live-reload playground for front-end angular demoing
 
 ##Why?
 
@@ -21,5 +20,5 @@ Route to [localhost:3000](http://localhost:3000/)
 ##Contains
 
 - basic gulpfile with livereload on file-save (.js or .html files)
-- bootstrap and angular available and included via bower
+- bootstrap and angular included via bower
 - one controller hooked into the index.html for quick demo purposes
