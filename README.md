@@ -22,3 +22,8 @@ Route to [localhost:3000](http://localhost:3000/)
 - basic gulpfile with livereload on file-save (.js or .html files)
 - bootstrap and angular included via bower
 - one controller hooked into the index.html for quick demo purposes
+
+##TODO:
+
+- Add unit tests via karma
+- Use Less, get live-reload going for stylesheets
